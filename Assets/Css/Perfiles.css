@@ -1,0 +1,41 @@
+*{
+	margin: 0%;
+	padding: 0%;
+  }
+
+#contenedor{
+	position: relative;
+	width: 1000px;
+	height: 800px;	
+	margin: 16 px auto;
+	background-color: transparent;
+}
+
+#uno{
+	position: absolute;
+	box-shadow: 5px 5px 15px 5px rgba(36, 35, 35, 0.9);
+	background: url(../Img/Mao.jpg);
+	background-size: cover;
+	top: -150px;
+	left: 180px;
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+	text-align: center;
+	text-decoration-color: black;
+}
+
+#dos{
+	position: absolute;
+	box-shadow: 5px 5px 15px 5px rgba(36, 35, 35, 0.9);
+	background-image: url(../Img/Wolf.jpg);
+	background-size: cover;
+	top: -40px;
+	left:970px;
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+	text-align: center;
+	text-decoration-color: black;
+}
+

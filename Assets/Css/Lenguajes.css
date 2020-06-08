@@ -1,0 +1,25 @@
+*{
+	margin: 0%;
+	padding: 0%;
+  }
+
+#contenedorPHP{
+	position: relative;
+	width: 1000px;
+	height: 800px;	
+}
+
+#uno{
+	position: absolute;
+	box-shadow: 5px 5px 15px 5px rgba(36, 35, 35, 0.9);
+	background: url(../Img/PHP.png);
+	background-size: cover;
+	top: 400px;
+	left: 70px;
+	width: 100px;
+	height: 50px;
+	border-radius: 100%;
+}
+
+
+
